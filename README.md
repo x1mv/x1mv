@@ -2,7 +2,7 @@
 - 👀 I’m interested in your moms bonkers
 - 🌱 I’m currently learning ways to break into your house
 - 💞️ I’m looking to collaborate on joe
-- 📫 How to reach me i'm inside of your walls
+- 📫 How to reach me: i'm inside of your walls
 
 <!---
 x1mv/x1mv is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
