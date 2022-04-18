@@ -1,10 +1,3 @@
-- 👋 Hi, I’m @x1mv
-- 👀 I’m interested in your moms bonkers
-- 🌱 I’m currently learning ways to break into your house
-- 💞️ I’m looking to collaborate on joe
-- 📫 How to reach me: i'm inside of your walls
-
-<!---
-x1mv/x1mv is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+x1mv
+![carbon(2)](https://user-images.githubusercontent.com/103964666/163894509-49ca1965-fa79-4fe5-ad84-bdb28b728f94.png)
+x1mv
